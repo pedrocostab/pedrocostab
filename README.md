@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocostab&hide=stars,issues&count_private=true&show_icons=true&transparent)
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
