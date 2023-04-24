@@ -1,8 +1,8 @@
 ### Hi there 👋
-<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocostab)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocostab&hide=stars,issues&count_private=true&show_icons=true&transparent)  
-</div>
+
   
 
 <div style="display: inline_block"><br>
