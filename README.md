@@ -18,10 +18,10 @@ const basilio = {
   tools: [Cucumber, Selenium, Angular, Power BI, Tableau],
   architecture: ["SGBD"],
   techEvents: {
-                        coordinator: "OPEI - computer olympics of Pernambuco",
-                        organizer: "HackaPET - programming hackathon",
-                        teacher: "Ferias.py - python programming vacation course"
-                      },
+                coordinator: "OPEI - computer olympics of Pernambuco",
+                organizer: "HackaPET - programming hackathon",
+                teacher: "Ferias.py - python programming vacation course"
+              },
 }
 ```
 
