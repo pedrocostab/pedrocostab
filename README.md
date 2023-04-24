@@ -1,7 +1,7 @@
 <h2>Hi, I'm Pedro Basílio! <img src="https://i.pinimg.com/originals/5e/48/c6/5e48c6ed0db25888e85f537b64e86b9c.gif" width="100"></h2>
 
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY5Mjc3YjMxZTJkYmIwMjdhOWUxMGNjZDVmODFiYzQ4ODhjMTk0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l3nWkBoUTAc7V8hGw/giphy.gif" width="230">
-<p><em>Science of Computer Student at <a href="https://www.ufpe.br/">Federal University of Pernambuco</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Former Civil Engineer at<a href="https://www.ufpe.br/">Federal University of Pernambuco</a></br>Data & BI Analyst at <a href="https://1beat.com/">1Beat</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Graduated Civil Engineer and Science of Computer Student at <a href="https://www.ufpe.br/">Federal University of Pernambuco</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data & BI Analyst at <a href="https://1beat.com/">1Beat</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
