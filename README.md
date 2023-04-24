@@ -1,5 +1,9 @@
 <h2>Hi, I'm Pedro Basílio! <img src="https://i.pinimg.com/originals/5e/48/c6/5e48c6ed0db25888e85f537b64e86b9c.gif" width="100"></h2>
 
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY5Mjc3YjMxZTJkYmIwMjdhOWUxMGNjZDVmODFiYzQ4ODhjMTk0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l3nWkBoUTAc7V8hGw/giphy.gif" width="230">
+<p><em>Science of Computer Student at <a href="https://www.ufpe.br/">Federal University of Pernambuco</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Former Civil Engineer at<a href="https://www.ufpe.br/">Federal University of Pernambuco</a></br>Data & BI Analyst at <a href="https://1beat.com/">1Beat</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 
 
 [![PET](https://img.shields.io/badge/-PET%20Informatica%20Student%20Member-222222?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcEz/lgD/YQD/dQD/XwD/fAD/mQD/VQD/fAD/YQD/ZAD/lAD/mgD/aQD//v3+VgD/dAD/igD/XgD/kgD/rQH/mwD/pAP/fwT/z7b/tpf/n3H/7eD/3c7/v2r/fzn/szvX3HZ6AAAADXRSTlMAkspE7KTq+xKTTk3IjMJtRwAAAaJJREFUOI1tk42SgjAMhKuDHKgt/S+0qO//lrdJC+KdywzMuF83tWmEeOs6nrufn+48XsUXDZdpVzKX4a8/vu3JOmPM6XN5d7An7UCk/hAyvF1oMo4IY4avPl4huIpsRFeTV7WAyCuARvTb/jh4UUo97aSKjDvBOx2sPQBZLZqBwAQVudgmlECAeqYYQ3w41gUAmxIP7QMxk4kxquJqCM6XbfYnC3+1xkelXqFu5CZGK+FntSlL45WaQ6jESZyRDiTP1Z+tTPjE2Ii76GSVtc9lnrPUEugjvkp5ENEL+SmtJQJ8XPHmjAZoOJr9BhQCqA6XgE3vzCU0lfAvqgP14lwX57nUTUrNm/SRFe5i5PWHv6kTiDl6CMRJXDXrmagI0lcAdFC+Ejch9C4k4SgB4KhKrAQ1i82kU0EjNTULEa8H+56aNVSf4lVKi1qQYHwT36kRoSk1QKsCP9UCvl1tPoqUcB+SSZmAFtFvl5b6ZRkCwb5xe4FKcEuBmE0uHHwaHNmYitBt6z+nb9z7mZzB4z5Hj4d3R2D/H14Sjb+UGP/b4cdfyOY3YRp/ONgAAAAASUVORK5CYII=)](https://pet.cin.ufpe.br/www/#)
