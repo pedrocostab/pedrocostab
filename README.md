@@ -1,6 +1,6 @@
 # Pedro Basílio 👨‍💻
 
-[![PET]([https://img.shields.io/badge/-ACM%20Student%20Member-222222?style=flat-square&logo=acm&logoColor=white&link=http://member.acm.org/~sudiptoghosh](https://img.shields.io/badge/-PET%20Informatica%20Student%20Member-222222?style=flat-square&logo=))](https://pet.cin.ufpe.br/www/#)
+[![PET](https://img.shields.io/badge/-PET%20Informatica%20Student%20Member-222222?style=flat-square&logo=https://pet.cin.ufpe.br/www/images/logos/pet-primary-signature-light.svg))](https://pet.cin.ufpe.br/www/#)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocostab/)](https://www.linkedin.com/in/pedrocostab/)
 [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/pedrocostab)](https://keybase.io/pedrocostab)
 
