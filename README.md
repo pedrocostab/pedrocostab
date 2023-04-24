@@ -10,6 +10,15 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocostab/)](https://www.linkedin.com/in/pedrocostab/)
 [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/pedrocostab)](https://keybase.io/pedrocostab)
 
+</br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<hr size="2">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocostab&hide=stars,issues&count_private=true&show_icons=true&transparent)  
+
+<hr size="1">
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
@@ -21,10 +30,3 @@
   <img align="center" alt="Pedro-Cucumber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
 
 </div>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocostab&hide=stars,issues&count_private=true&show_icons=true&transparent)  
-
