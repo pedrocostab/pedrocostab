@@ -10,8 +10,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocostab/)](https://www.linkedin.com/in/pedrocostab/)
 [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/pedrocostab)](https://keybase.io/pedrocostab)
 
-</br>
 ### A little more about me...  
+</br>
 
 ```javascript
 const basilio = {
