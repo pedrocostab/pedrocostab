@@ -16,7 +16,7 @@
 ```javascript
 const basilio = {
   code: [Python, SQL, Typescript, HTML, CSS, Java, C++],
-  tools: [Cucumber, Selenium, Angular, Power BI, Tableau],
+  tools: [Power BI, Tableau, Angular, Cucumber, Selenium],
   architecture: ["SGBD"],
   techEvents: {
                 coordinator: "OPEI - computer olympics of Pernambuco",
